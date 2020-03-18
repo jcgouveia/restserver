@@ -42,6 +42,11 @@
 		  "id": 2,
 		  "name": "Merketing",
 		  "aktiv" : true
+		},
+		{
+		  "id": 3,
+		  "name": "Sales",
+		  "aktiv" : true
 		}
 	  ]
 	}
