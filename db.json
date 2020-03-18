@@ -13,33 +13,36 @@
     "name": "typicode"
   },
   
-  "benutzer" : [
-    {
-      "manummer": 1,
-      "username": "jgouveia",
-	  "name": "Joao",
-	  "vorname" : "Gouveia",
-	  "aktiv" : true
-    },
-    {
-      "manummer": 2,
-      "username": "rbastos",
-	  "name": "Rui",
-	  "vorname" : "Bastos",
-	  "aktiv" : false
-    }
-  ],
+  "svs" : {
   
-  "teams" : [
-    {
-      "id": 1,
-	  "name": "Development",
-	  "aktiv" : true
-    },
-    {
-      "id": 2,
-	  "name": "Merketing",
-	  "aktiv" : true
-    }
-  ]
+	  "benutzer" : [
+		{
+		  "manummer": 1,
+		  "username": "jgouveia",
+		  "name": "Joao",
+		  "vorname" : "Gouveia",
+		  "aktiv" : true
+		},
+		{
+		  "manummer": 2,
+		  "username": "rbastos",
+		  "name": "Rui",
+		  "vorname" : "Bastos",
+		  "aktiv" : false
+		}
+	  ],
+	  
+	  "teams" : [
+		{
+		  "id": 1,
+		  "name": "Development",
+		  "aktiv" : true
+		},
+		{
+		  "id": 2,
+		  "name": "Merketing",
+		  "aktiv" : true
+		}
+	  ]
+	}
 }
