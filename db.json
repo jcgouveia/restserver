@@ -46,6 +46,21 @@
 	  "id": 3,
 	  "name": "Sales",
 	  "aktiv" : true
+	},
+	{
+	  "id": 4,
+	  "name": "Finacial",
+	  "aktiv" : true
+	},
+	{
+	  "id": 5,
+	  "name": "Human resources",
+	  "aktiv" : true
+	},
+	{
+	  "id": 6,
+	  "name": "Consulting",
+	  "aktiv" : false
 	}
   ]
 
